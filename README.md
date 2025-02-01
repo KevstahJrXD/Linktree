@@ -1,2 +1,2 @@
-# Linktree
+# Linktree `Main`
 Below you will find a simple LinkTree remake which you can fork and host for yourself...
